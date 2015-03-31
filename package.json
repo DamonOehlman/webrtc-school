@@ -1,0 +1,26 @@
+{
+  "name": "webrtc-workshop",
+  "version": "1.0.0",
+  "description": "An interactive workshop that covers getting started with WebRTC and rtc.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/webrtc-workshop.git"
+  },
+  "keywords": [
+    "webrtc",
+    "workshop"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/webrtc-workshop/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/webrtc-workshop",
+  "dependencies": {
+    "portfinder": "^0.4.0"
+  }
+}
