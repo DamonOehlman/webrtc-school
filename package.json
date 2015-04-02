@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/DamonOehlman/webrtc-workshop",
   "dependencies": {
-    "portfinder": "^0.4.0"
+    "portfinder": "^0.4.0",
+    "simple-peer": "^4.1.0"
   }
 }
